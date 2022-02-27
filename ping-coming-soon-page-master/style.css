@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@1,300;1,600;1,700&display=swap');
+:root{
+    --Blue: hsl(223, 87%, 63%);
+    --Pale-Blue: hsl(223, 100%, 88%);
+    --Light-Red: hsl(354, 100%, 66%);
+    --Gray: hsl(0, 0%, 59%);
+    --Very-Dark-Blue: hsl(209, 33%, 12%);
+    --Font-size: 20px;
+    --Font-family: 'Libre Franklin', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--Font-family);
+    font-size: var(--Font-size);
+    color:var(--Gray);
+}
+body{
+    height: 100vh;
+    width:100%;
+    
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+main{
+    width:60%;
+    flex-basis: 80%;
+   
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div.img{
+    
+    width:100%;
+    flex-basis: 10%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div.headline{
+    
+    width:100%;
+    flex-basis: 20%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1, span{
+    font-size: 50px;
+    
+}
+span{
+    color:black;
+}
+div.send{
+  
+    width:50%;
+    flex-basis: 30%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+}
+form{
+    width:100%;
+    flex-basis: 50%;
+    
+
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+input{
+    width:68%;
+    height:100%;
+    border-radius: 20px;
+    padding-left: 10px;
+    border: 2px solid var(--Gray);
+}
+button{
+    width:27%;
+    height:100%;
+    border-radius: 20px;
+    color:white;
+    border:1px solid blue;
+    background-color: var(--Blue);
+}
+.error{
+    width:65%;
+    height:30%;
+    align-self: flex-start;
+    margin-left: 20px;
+    color:red;
+}
+button:hover{
+    cursor: pointer;
+}
+div.dashboard{
+ 
+    width:100%;
+    flex-basis: 30%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img.dashboard{
+    width:60%;
+}
+div.social-media{
+    width:100%;
+    flex-basis: 10%;
+   
+     
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.social-img{
+ 
+    width:20%;
+    flex-basis: 10%;
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+}
+.svg{
+    width:10%;
+}
+footer{
+    width:60%;
+    flex-basis: 5%;
+  
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.attribution { 
+    font-size: 10px; 
+    text-align: center; 
+}
+.attribution a {
+    font-size: 10px;
+     color: hsl(228, 45%, 44%);
+     }
+
+
+@media (max-width:320px) and (orientation:portrait){
+    body{
+ 
+        height:200vh;
+    }
+    main{
+        width:90%;
+        flex-basis: 90%;
+    }
+    
+    div.img{
+        
+        width:100%;
+        flex-basis: 10%;
+    
+    }
+    div.headline{
+        
+        width:100%;
+        flex-basis: 20%;
+      
+    }
+    h1, span{
+    
+        font-size: 30px;
+        
+    }
+    span{
+        color:black;
+    }
+    div.send{
+      
+        width:100%;
+        flex-basis: 20%;
+      
+    }
+    form{
+        height:70%;
+        flex-basis: 100%;
+        flex-wrap: wrap;
+    }
+    input{
+        width:90%;
+        height:25%;
+        border-radius: 20px;
+        padding-left: 10px;
+        border: 2px solid var(--Gray);
+    }
+    button{
+        width:90%;
+        height:25%;
+        border-radius: 20px;
+        color:white;
+        border:1px solid blue;
+        background-color: var(--Blue);
+    }
+    div.dashboard{
+     
+        width:100%;
+        flex-basis: 30%;
+       
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    img.dashboard{
+       
+        
+        width:100%;
+    }
+    div.social-media{
+        width:100%;
+        flex-basis: 10%;
+       
+         
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .social-img{
+     
+        width:100%;
+        flex-basis: 15%;
+        display: flex;
+        
+        justify-content: space-around;
+        align-items: center;
+    }
+    .svg{
+        width:10%;
+        
+    }
+    img.fb,img.ig,img.twitter{
+        fill:blue;
+    }
+    footer{
+        width:60%;
+        flex-basis: 5%;
+      
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .attribution { 
+        font-size: 10px; 
+        text-align: center; 
+    }
+    .attribution a {
+        font-size: 10px;
+         color: hsl(228, 45%, 44%);
+         }
+   
+}
