@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Interactive pricing component</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="grid-wrapper">
+    <header>   
+        <h2>  Simple, traffic-based pricing </h2>
+        <h3> Sign-up for our 30-day trial.</br> No credit card required.</h3>
+    </header>
+    <main>
+      <section class="choice">
+        <div class="title">
+          <h4>100k Pageviews</h4>
+        </div>
+        <div class="slider">
+            <input type="range" name="slider" id="slider-range" min ="0" max="32" step="1">
+        </div>
+        <div class="price-all">
+          <div class="price">
+            <p class="price"> <span class="price-span"> $ 16.00  </span>/month</p>
+          </div>
+          <div class="settings">
+            <div class="monthly-biling">
+              <p class="price"> Monthly Billing</p>
+              <div class="switch-div">
+                <label class="switch">
+                  <input type="checkbox">
+                  <span class="slider round"></span>
+                </label>
+              </div>
+            </div>
+            <div class="yearly-biling">
+              <p class="price">Yearly Billing</p>
+              <button type="submit" class="discount">-25%</button>
+            </div>
+        </div>
+        </div>
+      </section>
+      <section class="trial">
+        <div class="wrapper-trial">
+          <div class="img">
+            <img src="images\icon-check.svg" alt="check">
+            <img src="images\icon-check.svg" alt="check">
+            <img src="images\icon-check.svg" alt="check">
+            </div>
+          <ul>
+            <li>Unlimited websites</li>
+            <li>100% data ownership</li>
+            <li>Email reports</li>
+          </ul>
+        </div>
+        <div class="button-trial">
+          <button type="submit" class="start-trial"> Start my trial</button>
+        </div>
+     
+      </section>
+    </main>
+  </div>
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Aleksandra Borowska</a>.
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>
