@@ -16,8 +16,8 @@ Frontend Mentor challenges help me improve my coding skills by building realisti
 ## Technologies
 
 <p float="left">
-<img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/tree/main/sunnyside-agency-landing-page-main/images/readme" width="35" height="35">&nbsp&nbspJavaScript
-<img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/tree/main/sunnyside-agency-landing-page-main/images/readme" width="40" height="40">CSS3&nbsp          <img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/tree/main/sunnyside-agency-landing-page-main/images/readme" width="40" height="40"> HTML5</p>
+<img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/js.png" width="35" height="35">&nbsp&nbspJavaScript
+<img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/css.png" width="40" height="40">CSS3&nbsp <img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/html.png" width="40" height="40"> HTML5</p>
 
 ## Setup
 #### Prerequisites
