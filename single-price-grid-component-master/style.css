@@ -23,7 +23,7 @@ body{
     display: grid;
     width:100%;
     height:100%;
-    background-color: var(--Grayish-Blue);
+    background-color: rgb(209, 227, 255,0.3);
     
 
     grid-template-areas: 
@@ -47,7 +47,7 @@ header{
     display: grid;
     width:100%;
     height:100%;
-    background-color: rgb(52, 255, 69);
+    
 
     grid-template-areas: 
     "h1 "
@@ -71,7 +71,7 @@ h1{
     align-content: center;
 
     color:var(--Cyan);
-    font-size: 50px;
+    font-size: 70px;
     
 }
  header h4{
@@ -81,15 +81,15 @@ h1{
     justify-content: start;
     align-content: center;
     color:var(--Bright-Yellow);
-    font-size: 25px;
+    font-size: 30px;
 }
 header h5{
     grid-area: h5;
-    
+    font-size: 25px;
     display: grid;
     justify-content: start;
     align-content: center;
-    color:var(--Grayish-Blue);
+    color:rgb(103, 110, 122);
 }
 section.description{
     grid-area: section;
@@ -110,7 +110,7 @@ section.description{
     justify-content: center;
     align-content: flex-start;
 
-    background-color: var(--Cyan);
+    background-color: hsl(179, 62%, 43%,0.6);;
      
     
 }
@@ -118,13 +118,14 @@ section.description h4{
     grid-area: h4-d;
     color:white;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 35px;
 
  
 }
 section.description h5{
     grid-area: h5-d;
     color:var(--Light-Gray);
+    font-size: 1.3rem;
 
 }
 section h5,h4,h6,p.span{
@@ -134,7 +135,7 @@ section h5,h4,h6,p.span{
 }
 section.sign-up{
     grid-area: sign-up;
-    background-color: rgb(66, 189, 76);
+    background-color: hsl(179, 62%, 43%);;
 
 
     display: grid;
@@ -148,7 +149,7 @@ section.sign-up{
     "h5-s    h5-s"
     "button button";
 
-    grid-template-rows:35% 15% 15% 35%;
+    grid-template-rows:30% 15% 15% 40%;
     grid-template-columns: 13% 60%;
 
     justify-content: center;
@@ -158,7 +159,7 @@ section.sign-up{
 }
 section.sign-up h4{
     grid-area: h4-s;
-    font-size: 25px;
+    font-size: 35px;
 
 }
 /* section.sign-up h6{
@@ -168,11 +169,13 @@ section.sign-up h4{
 } */
 section.sign-up h5{
     grid-area: h5-s;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
     
 }
 section.sign-up h6 {
     grid-area: h6;
-   
+    font-size: 1.4rem;
      
 }
 section.sign-up p.span{
@@ -183,13 +186,17 @@ section.sign-up p.span{
 
 }
 section.sign-up button{
-    height: 70%;
+    
+    height: 60%;
+    width:70%;
     border-radius: 20px;
-    font-size: 20px;
+    font-size: 30px;
     color:var(--Light-Gray);
     background-color: var(--Bright-Yellow);
     grid-area:button;
     border: none;
+    font-weight: 600;
+    margin-left: 50px;
 
 }
 section.sign-up h4,p.span{
@@ -206,7 +213,7 @@ footer{
     align-content: center;
     
 }
-/
+
 .attribution {
      font-size: 11px; text-align: center; 
     
