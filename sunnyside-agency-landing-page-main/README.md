@@ -10,10 +10,12 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 * [Technologies](#technologies)
 * [Setup](#setup)
 
+## General info
+Frontend Mentor challenges help me improve my coding skills by building realistic projects.
 
 ## Technologies
-* Semantic HTML5 markup ![HTML](images\readme\html.png)
-* CSS custom properties ![CSS](images\readme\css.png)
+* Semantic HTML5 markup ![HTML](https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/go_live.png)
+* CSS custom properties ![CSS](https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/css.png)
 * Flexbox
 * CSS Grid
 * JavaScript ![JS](https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/js.png)
