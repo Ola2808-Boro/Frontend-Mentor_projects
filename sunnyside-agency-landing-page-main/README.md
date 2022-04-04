@@ -14,14 +14,15 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 Frontend Mentor challenges help me improve my coding skills by building realistic projects.
 
 ## Technologies
-* Semantic HTML5 markup ![HTML]()
-* CSS custom properties ![CSS]<img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/css.png" width="35" height="35">
+* Semantic HTML5 markup 
+* CSS custom properties <img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/css.png" width="35" height="35" alt="CSS">
 * Flexbox
 * CSS Grid
-* JavaScript ![JS](https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/js.png)
+* JavaScript 
 
-<img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/css.png" width="35" height="35">
-<img src="https://user-images.githubusercontent.com/90143181/155710948-14bf50e8-30b5-47f3-8151-9fc80556c0ed.png" width="40" height="40">CSS3&nbsp<img src="https://user-images.githubusercontent.com/90143181/155709360-40a94a88-a7ea-4d82-ba0c-f51aec3b3ff4.png" width="40" height="40"> HTML5</p>
+<p float="left">
+<img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/tree/main/sunnyside-agency-landing-page-main/images/readme" width="35" height="35">&nbsp&nbspJavaScript
+<img src=https://github.com/Ola2808-Boro/Frontend-Mentor_projects/tree/main/sunnyside-agency-landing-page-main/images/readme" width="40" height="40">CSS3&nbsp          <img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/tree/main/sunnyside-agency-landing-page-main/images/readme" width="40" height="40"> HTML5</p>
 
 ## Setup
 #### Prerequisites
