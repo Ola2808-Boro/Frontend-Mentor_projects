@@ -14,12 +14,14 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 Frontend Mentor challenges help me improve my coding skills by building realistic projects.
 
 ## Technologies
-* Semantic HTML5 markup ![HTML](https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/go_live.png)
-* CSS custom properties ![CSS](https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/css.png)
+* Semantic HTML5 markup ![HTML]()
+* CSS custom properties ![CSS]<img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/css.png" width="35" height="35">
 * Flexbox
 * CSS Grid
 * JavaScript ![JS](https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/js.png)
 
+<img src="https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/css.png" width="35" height="35">
+<img src="https://user-images.githubusercontent.com/90143181/155710948-14bf50e8-30b5-47f3-8151-9fc80556c0ed.png" width="40" height="40">CSS3&nbsp<img src="https://user-images.githubusercontent.com/90143181/155709360-40a94a88-a7ea-4d82-ba0c-f51aec3b3ff4.png" width="40" height="40"> HTML5</p>
 
 ## Setup
 #### Prerequisites
