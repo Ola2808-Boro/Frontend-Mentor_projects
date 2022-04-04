@@ -46,7 +46,7 @@ yarn global add live-server
 Copy a project from the repository:
 
 ```sh
-git clone https://github.com/
+git clone https://github.com/Ola2808-Boro/Frontend-Mentor_projects/tree/main/sunnyside-agency-landing-page-main
 ```
 
 Start Live Server by clicking on the Go Live icon in the lower right corner of VSC:
