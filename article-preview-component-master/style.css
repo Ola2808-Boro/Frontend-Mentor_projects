@@ -78,7 +78,7 @@ div.img{
 }
 h2{
     color:var(--Very-Dark-Grayish-Blue);
-    font-size: 24px;
+    font-size: 2rem;
 
 }
 .description{
@@ -91,7 +91,7 @@ h2{
     align-items: center;
 }
 p{
-    font-size: var(--Font-size);
+    font-size:1.2rem;
     color:var(--Desaturated-Dark-Blue);
 }
 .user{
