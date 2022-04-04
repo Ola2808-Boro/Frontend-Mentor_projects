@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section
 
-![Design preview for the Social proof section coding challenge](./design/screen.jpg)
+![Design preview for the Social proof section coding challenge](https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/social-proof-section-master/design/screen.png)
 
 ## Table of contents
 
