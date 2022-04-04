@@ -16,7 +16,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 * CSS custom properties ![CSS](images\readme\css.png)
 * Flexbox
 * CSS Grid
-* JavaScript ![JS](images\readme\js.png)
+* JavaScript ![JS](/images/readme/js.png)
 
 
 ## Setup
