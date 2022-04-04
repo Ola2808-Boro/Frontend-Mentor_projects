@@ -51,4 +51,4 @@ git clone https://github.com/
 
 Start Live Server by clicking on the Go Live icon in the lower right corner of VSC:
 
-[live server](images\readme\go_live.png)
+[live server](https://github.com/Ola2808-Boro/Frontend-Mentor_projects/blob/main/sunnyside-agency-landing-page-main/images/readme/go_live.png?raw=true)
